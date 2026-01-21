@@ -1,0 +1,12 @@
+[network]
+name = "devnet"
+
+[[accounts]]
+name = "deployer"
+mnemonic = "twice kind fence lamp knife knife material point strong park floor staff horse staff horse staff horse staff horse staff horse staff horse staff horse"
+balance = 100000000
+
+[[accounts]]
+name = "wallet_1"
+mnemonic = "sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell sell"
+balance = 100000000

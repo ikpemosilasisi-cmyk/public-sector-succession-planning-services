@@ -1,0 +1,8 @@
+[project]
+name = "public-sector-succession-planning-services"
+requirements = []
+
+[repl.analysis]
+analysis_depth = 2
+
+[contracts.succession-tracker]
