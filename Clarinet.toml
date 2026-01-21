@@ -6,3 +6,4 @@ requirements = []
 analysis_depth = 2
 
 [contracts.succession-tracker]
+path = "contracts/succession-tracker.clar"
